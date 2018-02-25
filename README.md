@@ -5,4 +5,4 @@ _An attempt to release precise versions of public domain symbols for all to use.
 - Biohazard symbol
 
 ### Work in progress:
-- Radiation symbol
+- Radiation warning symbol
