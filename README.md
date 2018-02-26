@@ -8,4 +8,4 @@ _An attempt to release precise versions of public domain symbols for all to use.
 - Radiation warning symbol
 
 ### Current challenges:
-- Construction equilateral triangles in SVG.
+- Constructing equilateral triangles in SVG.
