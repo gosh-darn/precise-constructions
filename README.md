@@ -6,3 +6,6 @@ _An attempt to release precise versions of public domain symbols for all to use.
 
 ### Work in progress:
 - Radiation warning symbol
+
+### Current challenges:
+- Construction equilateral triangles in SVG.
